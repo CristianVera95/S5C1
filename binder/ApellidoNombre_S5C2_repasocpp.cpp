@@ -4,8 +4,19 @@
 #include<time.h>
 #include<cmath>
 
+int main(){
+std::cout<<"Hola mundo"<<std::end;
+  int Var1 = 2 ;
+  float Var2 = 4.0 ;
+  return 0
+}
+
+
+
 /*
 1) Inicializar dos variables globales (con valores escogidos por ustedes), una entera y otra flotante.
+
+
 
 2) Imprimir los valores de las variables en un mensaje: "la primera tiene un valor de XX y la segunda variable tiene un valor de YY"
 
